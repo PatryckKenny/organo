@@ -1,0 +1,22 @@
+.rodape{
+    background-color: #6278F7;
+    height: 213px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.rodape .logo img{
+    width: 166px;
+}
+
+.rodape .redesSociais img{
+    margin: 0 34px;
+    width: 24px;
+}
+
+.rodape h3{
+    color: #FFFFFF;
+    font-size: 20px;
+
+}
